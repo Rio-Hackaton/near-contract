@@ -1,0 +1,5 @@
+DEFINE_NEAR_METHOD(addProperty)
+DEFINE_NEAR_METHOD(changeAdmin)
+DEFINE_NEAR_METHOD(getPropertiesByWallet)
+DEFINE_NEAR_METHOD(getPropertyById)
+DEFINE_NEAR_METHOD(init)
